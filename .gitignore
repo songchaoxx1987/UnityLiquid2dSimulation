@@ -1,0 +1,11 @@
+*.temp
+.DS_Store
+
+
+Library
+Logs
+Temp
+
+bin
+obj
+.vs
